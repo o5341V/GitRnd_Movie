@@ -142,6 +142,7 @@
 "The Fast and the Furious",
 "The Fault In Our Stars",
 "The Fifth Element",
+"The Giver",
 "The Goonies",
 "The Green Mile",
 "The Hobbit: An Unexpected Journey",
