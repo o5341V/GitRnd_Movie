@@ -155,7 +155,6 @@
 "The House That Jack Built (Director's Cut)",
 "The Hummingbird Project",
 "THE HUNGER GAMES",
-"The Invisible Man (2020)",
 "The Little Prince",
 "The Lord of the Rings: The Fellowship of the Ring",
 "The Lord of the Rings: The Return of the King",
