@@ -184,6 +184,7 @@
 "Troy",
 "Turbo Kid",
 "Twilight",
+"Under the Silver Lake",
 "Vacancy",
 "Vanilla Sky",
 "WALL-E",
